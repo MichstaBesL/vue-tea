@@ -1,0 +1,8 @@
+*{margin: 0;padding: 0;}
+li{list-style: none;}
+a{color: black;text-decoration: none;}
+body,html{background: #fff;height: 100%;overflow: hidden;}
+input{border: none;outline: none;}
+#app{height: 100%;}
+.action{width: 100vw;height: 100vh;overflow: hidden;display: flex;flex-direction: column;}
+section{width: 100%;flex: 1;overflow: hidden;}
